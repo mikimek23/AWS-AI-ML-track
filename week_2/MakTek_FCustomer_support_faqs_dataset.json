@@ -1,0 +1,826 @@
+{
+"features": [
+{
+"feature_idx": 0,
+"name": "question",
+"type": {
+"dtype": "string",
+"_type": "Value"
+}
+},
+{
+"feature_idx": 1,
+"name": "answer",
+"type": {
+"dtype": "string",
+"_type": "Value"
+}
+}
+],
+"rows": [
+{
+"row_idx": 100,
+"row": {
+"question": "How do I update my account information?",
+"answer": "To update your account information, log in to your account, navigate to the 'Account Settings' section, and make the necessary changes."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 101,
+"row": {
+"question": "What is your privacy policy?",
+"answer": "Our privacy policy outlines how we collect, use, and protect your personal information. Please visit our Privacy Policy page for detailed information."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 102,
+"row": {
+"question": "Can I change my order after it has been placed?",
+"answer": "If you need to change your order, please contact our customer support team as soon as possible. We will do our best to accommodate your request if the order has not been processed yet."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 103,
+"row": {
+"question": "How do I unsubscribe from your newsletter?",
+"answer": "To unsubscribe from our newsletter, click on the 'Unsubscribe' link at the bottom of any of our newsletter emails or update your preferences in your account settings."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 104,
+"row": {
+"question": "What are your business hours?",
+"answer": "Our business hours are [working hours]. During these hours, our customer support team is available to assist you with any inquiries or issues."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 105,
+"row": {
+"question": "Do you offer a satisfaction guarantee?",
+"answer": "Yes, we offer a satisfaction guarantee on our products. If you are not satisfied with your purchase, please contact our customer support team for assistance."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 106,
+"row": {
+"question": "How can I apply for a job at your company?",
+"answer": "To apply for a job at our company, visit our Careers page, where you can find current job openings and submit your application."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 107,
+"row": {
+"question": "What is the warranty on your products?",
+"answer": "The warranty on our products varies by item. Please refer to the product page for specific warranty information or contact our customer support team."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 108,
+"row": {
+"question": "Can I request a refund if the price drops after my purchase?",
+"answer": "If the price of a product drops within 7 days of your purchase, you may be eligible for a price adjustment. Please contact our customer support team with your order details."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 109,
+"row": {
+"question": "How can I reset my password?",
+"answer": "To reset your password, click on the 'Forgot Password' link on the login page and follow the instructions to reset your password."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 110,
+"row": {
+"question": "How do I update my account information?",
+"answer": "To update your account information, log in to your account, navigate to the 'Account Settings' section, and make the necessary changes."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 111,
+"row": {
+"question": "What is your privacy policy?",
+"answer": "Our privacy policy outlines how we collect, use, and protect your personal information. Please visit our Privacy Policy page for detailed information."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 112,
+"row": {
+"question": "Can I change my order after it has been placed?",
+"answer": "If you need to change your order, please contact our customer support team as soon as possible. We will do our best to accommodate your request if the order has not been processed yet."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 113,
+"row": {
+"question": "How do I unsubscribe from your newsletter?",
+"answer": "To unsubscribe from our newsletter, click on the 'Unsubscribe' link at the bottom of any of our newsletter emails or update your preferences in your account settings."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 114,
+"row": {
+"question": "What are your business hours?",
+"answer": "Our business hours are [working hours]. During these hours, our customer support team is available to assist you with any inquiries or issues."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 115,
+"row": {
+"question": "Do you offer a satisfaction guarantee?",
+"answer": "Yes, we offer a satisfaction guarantee on our products. If you are not satisfied with your purchase, please contact our customer support team for assistance."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 116,
+"row": {
+"question": "How can I apply for a job at your company?",
+"answer": "To apply for a job at our company, visit our Careers page, where you can find current job openings and submit your application."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 117,
+"row": {
+"question": "What is the warranty on your products?",
+"answer": "The warranty on our products varies by item. Please refer to the product page for specific warranty information or contact our customer support team."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 118,
+"row": {
+"question": "Can I request a refund if the price drops after my purchase?",
+"answer": "If the price of a product drops within 7 days of your purchase, you may be eligible for a price adjustment. Please contact our customer support team with your order details."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 119,
+"row": {
+"question": "How can I reset my password?",
+"answer": "To reset your password, click on the 'Forgot Password' link on the login page and follow the instructions to reset your password."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 120,
+"row": {
+"question": "How do I update my account information?",
+"answer": "To update your account information, log in to your account, navigate to the 'Account Settings' section, and make the necessary changes."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 121,
+"row": {
+"question": "What is your privacy policy?",
+"answer": "Our privacy policy outlines how we collect, use, and protect your personal information. Please visit our Privacy Policy page for detailed information."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 122,
+"row": {
+"question": "Can I change my order after it has been placed?",
+"answer": "If you need to change your order, please contact our customer support team as soon as possible. We will do our best to accommodate your request if the order has not been processed yet."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 123,
+"row": {
+"question": "How do I unsubscribe from your newsletter?",
+"answer": "To unsubscribe from our newsletter, click on the 'Unsubscribe' link at the bottom of any of our newsletter emails or update your preferences in your account settings."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 124,
+"row": {
+"question": "What are your business hours?",
+"answer": "Our business hours are [working hours]. During these hours, our customer support team is available to assist you with any inquiries or issues."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 125,
+"row": {
+"question": "Do you offer a satisfaction guarantee?",
+"answer": "Yes, we offer a satisfaction guarantee on our products. If you are not satisfied with your purchase, please contact our customer support team for assistance."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 126,
+"row": {
+"question": "How can I apply for a job at your company?",
+"answer": "To apply for a job at our company, visit our Careers page, where you can find current job openings and submit your application."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 127,
+"row": {
+"question": "What is the warranty on your products?",
+"answer": "The warranty on our products varies by item. Please refer to the product page for specific warranty information or contact our customer support team."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 128,
+"row": {
+"question": "Can I request a refund if the price drops after my purchase?",
+"answer": "If the price of a product drops within 7 days of your purchase, you may be eligible for a price adjustment. Please contact our customer support team with your order details."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 129,
+"row": {
+"question": "How can I reset my password?",
+"answer": "To reset your password, click on the 'Forgot Password' link on the login page and follow the instructions to reset your password."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 130,
+"row": {
+"question": "How do I update my account information?",
+"answer": "To update your account information, log in to your account, navigate to the 'Account Settings' section, and make the necessary changes."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 131,
+"row": {
+"question": "What is your privacy policy?",
+"answer": "Our privacy policy outlines how we collect, use, and protect your personal information. Please visit our Privacy Policy page for detailed information."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 132,
+"row": {
+"question": "Can I change my order after it has been placed?",
+"answer": "If you need to change your order, please contact our customer support team as soon as possible. We will do our best to accommodate your request if the order has not been processed yet."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 133,
+"row": {
+"question": "How do I unsubscribe from your newsletter?",
+"answer": "To unsubscribe from our newsletter, click on the 'Unsubscribe' link at the bottom of any of our newsletter emails or update your preferences in your account settings."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 134,
+"row": {
+"question": "What are your business hours?",
+"answer": "Our business hours are [working hours]. During these hours, our customer support team is available to assist you with any inquiries or issues."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 135,
+"row": {
+"question": "Do you offer a satisfaction guarantee?",
+"answer": "Yes, we offer a satisfaction guarantee on our products. If you are not satisfied with your purchase, please contact our customer support team for assistance."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 136,
+"row": {
+"question": "How can I apply for a job at your company?",
+"answer": "To apply for a job at our company, visit our Careers page, where you can find current job openings and submit your application."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 137,
+"row": {
+"question": "What is the warranty on your products?",
+"answer": "The warranty on our products varies by item. Please refer to the product page for specific warranty information or contact our customer support team."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 138,
+"row": {
+"question": "Can I request a refund if the price drops after my purchase?",
+"answer": "If the price of a product drops within 7 days of your purchase, you may be eligible for a price adjustment. Please contact our customer support team with your order details."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 139,
+"row": {
+"question": "How can I reset my password?",
+"answer": "To reset your password, click on the 'Forgot Password' link on the login page and follow the instructions to reset your password."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 140,
+"row": {
+"question": "How do I update my account information?",
+"answer": "To update your account information, log in to your account, navigate to the 'Account Settings' section, and make the necessary changes."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 141,
+"row": {
+"question": "What is your privacy policy?",
+"answer": "Our privacy policy outlines how we collect, use, and protect your personal information. Please visit our Privacy Policy page for detailed information."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 142,
+"row": {
+"question": "Can I change my order after it has been placed?",
+"answer": "If you need to change your order, please contact our customer support team as soon as possible. We will do our best to accommodate your request if the order has not been processed yet."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 143,
+"row": {
+"question": "How do I unsubscribe from your newsletter?",
+"answer": "To unsubscribe from our newsletter, click on the 'Unsubscribe' link at the bottom of any of our newsletter emails or update your preferences in your account settings."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 144,
+"row": {
+"question": "What are your business hours?",
+"answer": "Our business hours are [working hours]. During these hours, our customer support team is available to assist you with any inquiries or issues."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 145,
+"row": {
+"question": "Do you offer a satisfaction guarantee?",
+"answer": "Yes, we offer a satisfaction guarantee on our products. If you are not satisfied with your purchase, please contact our customer support team for assistance."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 146,
+"row": {
+"question": "How can I apply for a job at your company?",
+"answer": "To apply for a job at our company, visit our Careers page, where you can find current job openings and submit your application."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 147,
+"row": {
+"question": "What is the warranty on your products?",
+"answer": "The warranty on our products varies by item. Please refer to the product page for specific warranty information or contact our customer support team."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 148,
+"row": {
+"question": "Can I request a refund if the price drops after my purchase?",
+"answer": "If the price of a product drops within 7 days of your purchase, you may be eligible for a price adjustment. Please contact our customer support team with your order details."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 149,
+"row": {
+"question": "How can I reset my password?",
+"answer": "To reset your password, click on the 'Forgot Password' link on the login page and follow the instructions to reset your password."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 150,
+"row": {
+"question": "How do I update my account information?",
+"answer": "To update your account information, log in to your account, navigate to the 'Account Settings' section, and make the necessary changes."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 151,
+"row": {
+"question": "What is your privacy policy?",
+"answer": "Our privacy policy outlines how we collect, use, and protect your personal information. Please visit our Privacy Policy page for detailed information."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 152,
+"row": {
+"question": "Can I change my order after it has been placed?",
+"answer": "If you need to change your order, please contact our customer support team as soon as possible. We will do our best to accommodate your request if the order has not been processed yet."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 153,
+"row": {
+"question": "How do I unsubscribe from your newsletter?",
+"answer": "To unsubscribe from our newsletter, click on the 'Unsubscribe' link at the bottom of any of our newsletter emails or update your preferences in your account settings."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 154,
+"row": {
+"question": "What are your business hours?",
+"answer": "Our business hours are [working hours]. During these hours, our customer support team is available to assist you with any inquiries or issues."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 155,
+"row": {
+"question": "Do you offer a satisfaction guarantee?",
+"answer": "Yes, we offer a satisfaction guarantee on our products. If you are not satisfied with your purchase, please contact our customer support team for assistance."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 156,
+"row": {
+"question": "How can I apply for a job at your company?",
+"answer": "To apply for a job at our company, visit our Careers page, where you can find current job openings and submit your application."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 157,
+"row": {
+"question": "What is the warranty on your products?",
+"answer": "The warranty on our products varies by item. Please refer to the product page for specific warranty information or contact our customer support team."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 158,
+"row": {
+"question": "Can I request a refund if the price drops after my purchase?",
+"answer": "If the price of a product drops within 7 days of your purchase, you may be eligible for a price adjustment. Please contact our customer support team with your order details."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 159,
+"row": {
+"question": "How can I reset my password?",
+"answer": "To reset your password, click on the 'Forgot Password' link on the login page and follow the instructions to reset your password."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 160,
+"row": {
+"question": "How do I update my account information?",
+"answer": "To update your account information, log in to your account, navigate to the 'Account Settings' section, and make the necessary changes."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 161,
+"row": {
+"question": "What is your privacy policy?",
+"answer": "Our privacy policy outlines how we collect, use, and protect your personal information. Please visit our Privacy Policy page for detailed information."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 162,
+"row": {
+"question": "Can I change my order after it has been placed?",
+"answer": "If you need to change your order, please contact our customer support team as soon as possible. We will do our best to accommodate your request if the order has not been processed yet."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 163,
+"row": {
+"question": "How do I unsubscribe from your newsletter?",
+"answer": "To unsubscribe from our newsletter, click on the 'Unsubscribe' link at the bottom of any of our newsletter emails or update your preferences in your account settings."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 164,
+"row": {
+"question": "What are your business hours?",
+"answer": "Our business hours are [working hours]. During these hours, our customer support team is available to assist you with any inquiries or issues."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 165,
+"row": {
+"question": "Do you offer a satisfaction guarantee?",
+"answer": "Yes, we offer a satisfaction guarantee on our products. If you are not satisfied with your purchase, please contact our customer support team for assistance."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 166,
+"row": {
+"question": "How can I apply for a job at your company?",
+"answer": "To apply for a job at our company, visit our Careers page, where you can find current job openings and submit your application."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 167,
+"row": {
+"question": "What is the warranty on your products?",
+"answer": "The warranty on our products varies by item. Please refer to the product page for specific warranty information or contact our customer support team."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 168,
+"row": {
+"question": "Can I request a refund if the price drops after my purchase?",
+"answer": "If the price of a product drops within 7 days of your purchase, you may be eligible for a price adjustment. Please contact our customer support team with your order details."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 169,
+"row": {
+"question": "How can I reset my password?",
+"answer": "To reset your password, click on the 'Forgot Password' link on the login page and follow the instructions to reset your password."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 170,
+"row": {
+"question": "How do I update my account information?",
+"answer": "To update your account information, log in to your account, navigate to the 'Account Settings' section, and make the necessary changes."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 171,
+"row": {
+"question": "What is your privacy policy?",
+"answer": "Our privacy policy outlines how we collect, use, and protect your personal information. Please visit our Privacy Policy page for detailed information."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 172,
+"row": {
+"question": "Can I change my order after it has been placed?",
+"answer": "If you need to change your order, please contact our customer support team as soon as possible. We will do our best to accommodate your request if the order has not been processed yet."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 173,
+"row": {
+"question": "How do I unsubscribe from your newsletter?",
+"answer": "To unsubscribe from our newsletter, click on the 'Unsubscribe' link at the bottom of any of our newsletter emails or update your preferences in your account settings."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 174,
+"row": {
+"question": "What are your business hours?",
+"answer": "Our business hours are [working hours]. During these hours, our customer support team is available to assist you with any inquiries or issues."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 175,
+"row": {
+"question": "Do you offer a satisfaction guarantee?",
+"answer": "Yes, we offer a satisfaction guarantee on our products. If you are not satisfied with your purchase, please contact our customer support team for assistance."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 176,
+"row": {
+"question": "How can I apply for a job at your company?",
+"answer": "To apply for a job at our company, visit our Careers page, where you can find current job openings and submit your application."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 177,
+"row": {
+"question": "What is the warranty on your products?",
+"answer": "The warranty on our products varies by item. Please refer to the product page for specific warranty information or contact our customer support team."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 178,
+"row": {
+"question": "Can I request a refund if the price drops after my purchase?",
+"answer": "If the price of a product drops within 7 days of your purchase, you may be eligible for a price adjustment. Please contact our customer support team with your order details."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 179,
+"row": {
+"question": "How can I reset my password?",
+"answer": "To reset your password, click on the 'Forgot Password' link on the login page and follow the instructions to reset your password."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 180,
+"row": {
+"question": "How do I update my account information?",
+"answer": "To update your account information, log in to your account, navigate to the 'Account Settings' section, and make the necessary changes."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 181,
+"row": {
+"question": "What is your privacy policy?",
+"answer": "Our privacy policy outlines how we collect, use, and protect your personal information. Please visit our Privacy Policy page for detailed information."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 182,
+"row": {
+"question": "Can I change my order after it has been placed?",
+"answer": "If you need to change your order, please contact our customer support team as soon as possible. We will do our best to accommodate your request if the order has not been processed yet."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 183,
+"row": {
+"question": "How do I unsubscribe from your newsletter?",
+"answer": "To unsubscribe from our newsletter, click on the 'Unsubscribe' link at the bottom of any of our newsletter emails or update your preferences in your account settings."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 184,
+"row": {
+"question": "What are your business hours?",
+"answer": "Our business hours are [working hours]. During these hours, our customer support team is available to assist you with any inquiries or issues."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 185,
+"row": {
+"question": "Do you offer a satisfaction guarantee?",
+"answer": "Yes, we offer a satisfaction guarantee on our products. If you are not satisfied with your purchase, please contact our customer support team for assistance."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 186,
+"row": {
+"question": "How can I apply for a job at your company?",
+"answer": "To apply for a job at our company, visit our Careers page, where you can find current job openings and submit your application."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 187,
+"row": {
+"question": "What is the warranty on your products?",
+"answer": "The warranty on our products varies by item. Please refer to the product page for specific warranty information or contact our customer support team."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 188,
+"row": {
+"question": "Can I request a refund if the price drops after my purchase?",
+"answer": "If the price of a product drops within 7 days of your purchase, you may be eligible for a price adjustment. Please contact our customer support team with your order details."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 189,
+"row": {
+"question": "How can I reset my password?",
+"answer": "To reset your password, click on the 'Forgot Password' link on the login page and follow the instructions to reset your password."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 190,
+"row": {
+"question": "How do I update my account information?",
+"answer": "To update your account information, log in to your account, navigate to the 'Account Settings' section, and make the necessary changes."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 191,
+"row": {
+"question": "What is your privacy policy?",
+"answer": "Our privacy policy outlines how we collect, use, and protect your personal information. Please visit our Privacy Policy page for detailed information."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 192,
+"row": {
+"question": "Can I change my order after it has been placed?",
+"answer": "If you need to change your order, please contact our customer support team as soon as possible. We will do our best to accommodate your request if the order has not been processed yet."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 193,
+"row": {
+"question": "How do I unsubscribe from your newsletter?",
+"answer": "To unsubscribe from our newsletter, click on the 'Unsubscribe' link at the bottom of any of our newsletter emails or update your preferences in your account settings."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 194,
+"row": {
+"question": "What are your business hours?",
+"answer": "Our business hours are [working hours]. During these hours, our customer support team is available to assist you with any inquiries or issues."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 195,
+"row": {
+"question": "Do you offer a satisfaction guarantee?",
+"answer": "Yes, we offer a satisfaction guarantee on our products. If you are not satisfied with your purchase, please contact our customer support team for assistance."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 196,
+"row": {
+"question": "How can I apply for a job at your company?",
+"answer": "To apply for a job at our company, visit our Careers page, where you can find current job openings and submit your application."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 197,
+"row": {
+"question": "What is the warranty on your products?",
+"answer": "The warranty on our products varies by item. Please refer to the product page for specific warranty information or contact our customer support team."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 198,
+"row": {
+"question": "Can I request a refund if the price drops after my purchase?",
+"answer": "If the price of a product drops within 7 days of your purchase, you may be eligible for a price adjustment. Please contact our customer support team with your order details."
+},
+"truncated_cells": []
+},
+{
+"row_idx": 199,
+"row": {
+"question": "How can I reset my password?",
+"answer": "To reset your password, click on the 'Forgot Password' link on the login page and follow the instructions to reset your password."
+},
+"truncated_cells": []
+}
+],
+"num_rows_total": 200,
+"num_rows_per_page": 100,
+"partial": false
+}
+
